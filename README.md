@@ -1,2 +1,3 @@
-# teach-me-how-to-google-2.0
-The case for search &amp; debugging skills in the age of AI
+# Teach Me How to Google 2.0
+
+Version 2 of the original [Teach Me How to Google](https://ucsb-meds.github.io/teach-me-how-to-google/#1) talk, restructured and reframed for teaching and learning in the age of AI
